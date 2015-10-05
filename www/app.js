@@ -8,11 +8,11 @@ sampleApp.config(['$routeProvider',
   function($routeProvider) {
     $routeProvider.
       when('/AddNewOrder', {
-	templateUrl: 'templates/add_order.html',
+	templateUrl: 'templates/template1.html',
 	controller: 'AddOrderController'
       }).
       when('/ShowOrders', {
-	templateUrl: 'templates/show_orders.html',
+	templateUrl: 'templates/template2.html',
 	controller: 'ShowOrdersController'
       }).
       otherwise({
