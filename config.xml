@@ -2,15 +2,15 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
      xmlns:gap   = "http://phonegap.com/ns/1.0"
      xmlns:android   = "http://schemas.android.com/apk/res/android"
-     id          = "com.eduquestMobile"
-     versionCode = "354"
-     version     = "3.5.4" >
+     id          = "com.edutourApps"
+     versionCode = "100"
+     version     = "1.0.0" >
   <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-    <string>354</string>
+    <string>100</string>
   </gap:config-file>
-  <name>Eduquest Mobile</name>
+  <name>EduTour Apps</name>
   <description>
-    Eduquest Mobile
+    EduTour Apps
   </description>
   <author email="ismail@eduqestindia.in" href="www.eduquestindia.in">
     Mohamed Ismail - ISZA Technologies
