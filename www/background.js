@@ -2,7 +2,7 @@
     chrome.app.window.create('index.html', {
         'outerBounds': {
             'width': 1024,
-            'height': 768
+            'height': 268
         }
     });
 });
