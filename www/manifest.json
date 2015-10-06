@@ -1,0 +1,12 @@
+﻿{
+  "name": "EduTour App",
+  "description": "EduTour App",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "128": "eduQuest.ico" }
+}
